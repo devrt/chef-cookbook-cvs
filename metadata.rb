@@ -1,5 +1,4 @@
 # encoding: utf-8
-
 name             'cvs'
 maintainer       'Elan Ruusamäe'
 maintainer_email 'glen@delfi.ee'
